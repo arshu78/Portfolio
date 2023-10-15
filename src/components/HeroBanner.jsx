@@ -79,7 +79,7 @@ const HeroBanner = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          <h1 className="text-[40px] text-center md:text-[50px] 2xl:text-[99px] leading-[30px] md:leading-[75px]  2xl:leading-[82px] font-oswald uppercase">
+          <h1 className="text-[40px] md:text-[50px] 2xl:text-[99px] leading-[30px] md:leading-[75px]  2xl:leading-[82px] font-oswald uppercase">
             Hey ! I am Arshad
             <br />
             <br />
