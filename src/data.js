@@ -51,7 +51,7 @@ export const projects = [
         name: "Weather App Chrome Entension",
         image: p3,
         tags: ["mobile-app"],
-        url : "hhttps://weatherappextension.netlify.app/",
+        url : "https://weatherappextension.netlify.app/",
         git : "https://github.com/arshu78/Weather-App-Chrome-Extension-using-React-Js",
     },
     {
