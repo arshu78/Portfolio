@@ -40,7 +40,7 @@ const AboutMe = () => {
 
                 {/* PARAGRAPH START */}
                 <Div className="max-w-[759px] 2xl:max-w-[959px] text-[16px] 2xl:text-[20px] leading-[24px] 2xl:leading-[32px] mb-[20px] md:mb-[30px] 2xl:mb-[50px] relative">
-                I am a pre-final year Computer Science Engineering undergraduate at Dr. D. Y. Patil Institute of Technology, Pimpri in Pune. I have a passion for problem-solving, which led me to develop a strong understanding of data structures and algorithms. 
+                I am a final year Computer Science Engineering undergraduate at Dr. D. Y. Patil Institute of Technology, Pimpri in Pune. I have a passion for problem-solving, which led me to develop a strong understanding of data structures and algorithms. 
                 </Div>
                 {/* PARAGRAPH END */}
 
