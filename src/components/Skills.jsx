@@ -25,7 +25,7 @@ import pattern from "../assets/heading-pattern.png";
 import pe1 from "../assets/sec-3-p-e-1.png";
 import pe2 from "../assets/sec-3-p-e-2.png";
 import pe3 from "../assets/sec-3-p-e-3.png";
-import Conti from "./conti";
+import Conti from "./Conti";
 import Profiles from "./Profiles";
 
 
